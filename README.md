@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+# This is Bea. I create things for web usually with ReactJS.
 
 <!--
 **baeyacorpuz/baeyacorpuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
