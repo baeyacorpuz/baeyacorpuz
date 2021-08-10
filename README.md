@@ -1,4 +1,4 @@
-# Hi there 👋
+# Annyeong world 👋
 
 ### This is Bea. I create things for web usually with ReactJS.
 <!--
