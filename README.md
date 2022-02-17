@@ -1,6 +1,6 @@
-# Annyeong world 👋
+# Hello world 👋
 
-### This is Bea. I create things for web usually with ReactJS.
+This is Bea. Crafting beautiful websites and digital products.
 <!--
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J82Q1KJ)
 -->
