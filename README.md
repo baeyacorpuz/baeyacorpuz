@@ -1,6 +1,6 @@
 # Hello world 👋
 
-This is Bea. Crafting beautiful websites and digital products.
+I'm Bae, crafting beautiful websites and digital products. I create things for web usually with ReactJS. I also work on freelance projects including web design and development, and logo design.
 <!--
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J82Q1KJ)
 -->
